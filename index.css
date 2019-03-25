@@ -1,0 +1,42 @@
+img { 
+    max-width: 100%;
+    height: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+  
+#main {
+    background-color: hsl(47, 60%, 70%);
+    font-family: "Baskerville", sans-serif;
+}
+  
+#title {
+    padding-top: 50px;
+}
+  
+header {
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+    position: center;
+    display: grid;
+    justify-items: center;
+    padding-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+  
+ul { width: 400px; }
+  
+.container {
+    display: grid;
+    justify-items: center;
+}
+  
+#img-caption { text-align: center; }
+  
+#quote { text-align: center; }
+  
+#link { text-align: center; }
